@@ -1,0 +1,13 @@
+{
+    "name": "milad-abooali/laravel",
+    "description": "0 Laravel",
+    "type": "metapackage",
+    "authors": [
+        {
+            "name": "Milad Abooali",
+            "email": "m.abooali@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
